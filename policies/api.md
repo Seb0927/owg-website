@@ -11,7 +11,7 @@ permalink: /policies/api/
 
 The editing API is provided in order to edit the map data, **not** for read-only purposes or projects. Clients may be blocked without notice if they are affecting the service level for others or causing data corruption.
 
-Large or frequent data users must use the download service "[planet.osm](https://wiki.openstreetmap.org/wiki/Planet.osm)" other alternatives described below.
+Large or frequent data users must use the download service "[planet.osm](https://wiki.openstreetmap.org/wiki/Planet.osm)" or other alternatives described below.
 
 To avoid having your access blocked, please discuss your requirement with [system administrators](https://wiki.openstreetmap.org/wiki/System_Administrators) either via their wiki pages or on the [IRC channel](https://wiki.openstreetmap.org/wiki/IRC) prior to starting.
 
